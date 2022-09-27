@@ -28,7 +28,3 @@
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=JamesTamer&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 </p>
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=JamesTamer&theme=dracula">
-</p>  
