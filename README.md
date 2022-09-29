@@ -1,3 +1,6 @@
+<h2 align="center">🎇 Resume 🎇</h2>
+<p align="center">Hi, my name is James Tamer, I'm 20 years old and I develop with Java/Kotlin language, I've been working with Spigot/Bukkit API for 8 years, I write clean and optimized code and most of the resources created in my git are free for everyone.</p>
+
 <h2 align="center">✨ Technology Stack ✨</h2>
 
 <p align="center">
